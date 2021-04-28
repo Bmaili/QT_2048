@@ -4,8 +4,8 @@
 部分截图：
 
 
-![image](https://github.com/Bmaili/myimgbed/blob/master/images/qt_2048/2.png)
-![image](https://github.com/Bmaili/myimgbed/blob/master/images/qt_2048/3.png)
+![1.png](https://z3.ax1x.com/2021/04/28/gPyB8J.png)
+![2.png](https://z3.ax1x.com/2021/04/28/gPy0C4.png)
 
 
 说明：
